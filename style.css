@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: darkcyan;
+}
+#head{
+    width: 1000px;
+    height: 500px;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
